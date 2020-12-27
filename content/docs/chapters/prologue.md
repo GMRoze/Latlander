@@ -3,7 +3,9 @@ title: 'Prologue'
 weight: 1
 ---
 
-# At me ipso nepotibus nunc celebratior genus
+## Prologue
+### The Disappearance of Kristaps Keidann
+#### Autumn 1915. 2nd Latvian Riflemen Regiment, 24 miles from Riga.
 
 The day dawned clear and serene. The sun was bright as amber, the sky blue as young maidens’ eyes and the top of trees swayed with the sound of distant German artillery.
 

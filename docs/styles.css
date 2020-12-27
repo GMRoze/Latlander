@@ -398,14 +398,6 @@ ul.pagination .page-item a {
 	display: block
 }
 
-.book-section-flat {
-	margin-bottom: 2rem
-}
-
-.book-section-flat:not(:first-child) {
-	margin-top: 2rem
-}
-
 .book-section-flat>a,
 .book-section-flat>span,
 .book-section-flat>label {
@@ -695,22 +687,44 @@ code {
 	line-height: 1.6
 }
 
-.markdwon p:before { content: "\00a0 "; }
+.markdown p {
+	text-indent: 2em; 
+	text-align: justify;
+}
 
 .markdown>:first-child {
 	margin-top: 0
 }
 
-.markdown h1,
-.markdown h2,
-.markdown h3,
-.markdown h4,
-.markdown h5,
-.markdown h6 {
-	font-weight: 400;
+.markdown h2{
 	line-height: 1;
 	margin-top: 1.5em;
-	margin-bottom: 1rem
+	padding-top: 0.5em;
+	font-family: "Times New Roman";
+	text-align: center;
+	margin-block-end: 0;
+	font-size: 60px;
+}
+
+.markdown h3 {
+	line-height: 1;
+	margin-bottom: 1rem;
+	margin-block-start: 0.5em;
+	font-family: "Times New Roman";
+	text-align: center;
+	font-size: 25px;
+}
+
+.markdown h4 {
+	line-height: 1;
+	margin-bottom: 1rem;
+	margin-block-start: 0.5em;
+	letter-spacing: 0.5px;
+	font-family: "Trebuchet MS";
+	line-height: .9em;
+	text-align: center;
+	color: gray;
+	font-size: 13px;
 }
 
 .markdown h1 a.anchor,
