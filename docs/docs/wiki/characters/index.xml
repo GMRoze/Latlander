@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on The Latlander</title>
-    <link>https://andreispurim.github.io/latlander/</link>
-    <description>Recent content in Introduction on The Latlander</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://andreispurim.github.io/latlander/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chapter I: Christmas / The Burning Church</title>
-      <link>https://andreispurim.github.io/latlander/docs/chapters/act_i/1_christmas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreispurim.github.io/latlander/docs/chapters/act_i/1_christmas/</guid>
-      <description>Chapter I #  Christmas / The Burning Church #  Winter 1905. In his home village, Aizpute, close to the Baltic Sea. #  [To be published]</description>
-    </item>
-    
+    <title>The Latlander</title>
+    <link>https://andreispurim.github.io/latlander/docs/wiki/characters/</link>
+    <description>Recent content on The Latlander</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://andreispurim.github.io/latlander/docs/wiki/characters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markuss Keidann</title>
       <link>https://andreispurim.github.io/latlander/docs/wiki/characters/markuss/</link>
@@ -25,40 +16,12 @@ In 1917, Markuss defies general Davilov&amp;rsquo;s orders to protect his brothe
     </item>
     
     <item>
-      <title>Prologue</title>
-      <link>https://andreispurim.github.io/latlander/docs/chapters/prologue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreispurim.github.io/latlander/docs/chapters/prologue/</guid>
-      <description>Prologue #  The Disappearance of Kris Keidann #  Autumn 1915. 2nd Latvian Riflemen Regiment, 24 miles from Riga. #  The day dawned clear and serene. The sun was bright as amber, the sky blue as young maidens’ eyes and the top of trees swayed with the sound of distant German artillery.
-If not for this occasional, low tum of German howitzers, localized around 12 miles south, the forest would be in complete silent.</description>
-    </item>
-    
-    <item>
-      <title>Chapter II: Birthday</title>
-      <link>https://andreispurim.github.io/latlander/docs/chapters/act_i/2_birthday/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreispurim.github.io/latlander/docs/chapters/act_i/2_birthday/</guid>
-      <description>Chapter II #  Birthday #  Spring 1914. In Aizpute. #  [To be published]</description>
-    </item>
-    
-    <item>
       <title>Lt. Wilks</title>
       <link>https://andreispurim.github.io/latlander/docs/wiki/characters/wilks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://andreispurim.github.io/latlander/docs/wiki/characters/wilks/</guid>
       <description>Lieutenant Wilks is a Latvian-Jewish commanding officer of the 3rd Courland Battalion (and later, Regiment). An accomplished commander, Wilks&#39; is sometimes regarded as ruthless or unbending, being called Ol&#39; Wilks or Slavedriver by his soldiers. He is a veteran of the invasion of East Prussia and the fall of Jelgava before the formation of the Latvian Riflemen. After the Christmas Battles in January 1917, he is removed from service after retreating without orders and a mutiny against General Davilov and goes on to have a pivotal role in the Russian Civil War commanding the Red Latvian Riflemen, until returning to fight for the independence of Latvia.</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: War is Declared / The Shelling of Liepaja</title>
-      <link>https://andreispurim.github.io/latlander/docs/chapters/act_i/3_war/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreispurim.github.io/latlander/docs/chapters/act_i/3_war/</guid>
-      <description>Chapter III #  War is Declared / The Shelling of Liepaja #  Autumn 1914. Liepaja. #  [To be published]</description>
     </item>
     
     <item>
