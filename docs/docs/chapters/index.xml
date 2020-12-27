@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Latlander</title>
+    <link>https://andreispurim.github.io/latlander/docs/chapters/</link>
+    <description>Recent content on The Latlander</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://andreispurim.github.io/latlander/docs/chapters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prologue</title>
+      <link>https://andreispurim.github.io/latlander/docs/chapters/prologue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreispurim.github.io/latlander/docs/chapters/prologue/</guid>
+      <description>At me ipso nepotibus nunc celebratior genus #  The day dawned clear and serene. The sun was bright as amber, the sky blue as young maidens’ eyes and the top of trees swayed with the sound of distant German artillery.
+If not for this occasional, low tum of German howitzers, localized around 12 miles south, the forest would be in complete silent. An inattentive wanderer would barely spot the soldiers – dressed in their Russian brownish uniform – face-down in the floor, still as statues.</description>
+    </item>
+    
+  </channel>
+</rss>
