@@ -1,4 +1,4 @@
-baseURL = 'https://andreispurim.github.io/latlander/'
+baseURL = 'https://lonelymonday.github.io/Latlander/'
 title = 'The Latlander'
 publishDir = 'docs'
 
