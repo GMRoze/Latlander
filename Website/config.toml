@@ -1,6 +1,6 @@
 baseURL = 'https://lonelymonday.github.io/Latlander/'
 title = 'The Latlander'
-publishDir = 'docs'
+publishDir = '../docs'
 
 disablePathToLower = false
 enableGitInfo = false
