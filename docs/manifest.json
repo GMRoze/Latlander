@@ -1,14 +1,14 @@
 {
   "name": "The Latlander",
   "short_name": "The Latlander",
-  "start_url": "/latlander/",
-  "scope": "/latlander/",
+  "start_url": "/Latlander/",
+  "scope": "/Latlander/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/latlander/favicon.svg",
+      "src": "/Latlander/favicon.svg",
       "sizes": "512x512"
     }
   ]
