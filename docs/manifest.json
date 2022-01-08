@@ -1,6 +1,6 @@
 {
-  "name": "The Latlander",
-  "short_name": "The Latlander",
+  "name": "Latlander",
+  "short_name": "Latlander",
   "start_url": "/Latlander/",
   "scope": "/Latlander/",
   "display": "standalone",

@@ -1,3 +1,5 @@
 ---
-weight: 10
+bookCollapseSection: true
+title: 'Chapters'
+weight: 2
 ---

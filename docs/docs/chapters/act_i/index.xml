@@ -1,35 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Latlander</title>
+    <title>Act I on Latlander</title>
     <link>https://lonelymonday.github.io/Latlander/docs/chapters/act_i/</link>
-    <description>Recent content on The Latlander</description>
+    <description>Recent content in Act I on Latlander</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://lonelymonday.github.io/Latlander/docs/chapters/act_i/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter I: Christmas / The Burning Church</title>
-      <link>https://lonelymonday.github.io/Latlander/docs/chapters/act_i/1_christmas/</link>
+      <title>Chapter II: The Lonely Oak</title>
+      <link>https://lonelymonday.github.io/Latlander/docs/chapters/act_i/chapter_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lonelymonday.github.io/Latlander/docs/chapters/act_i/1_christmas/</guid>
-      <description>Chapter I #  Christmas / The Burning Church #  Winter 1905. In his home village, Aizpute, close to the Baltic Sea. #  [To be published]</description>
-    </item>
-    
-    <item>
-      <title>Chapter II: Birthday</title>
-      <link>https://lonelymonday.github.io/Latlander/docs/chapters/act_i/2_birthday/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lonelymonday.github.io/Latlander/docs/chapters/act_i/2_birthday/</guid>
-      <description>Chapter II #  Birthday #  Spring 1914. In Aizpute. #  [To be published]</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: War is Declared / The Shelling of Liepaja</title>
-      <link>https://lonelymonday.github.io/Latlander/docs/chapters/act_i/3_war/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lonelymonday.github.io/Latlander/docs/chapters/act_i/3_war/</guid>
-      <description>Chapter III #  War is Declared / The Shelling of Liepaja #  Autumn 1914. Liepaja. #  [To be published]</description>
+      <guid>https://lonelymonday.github.io/Latlander/docs/chapters/act_i/chapter_2/</guid>
+      <description></description>
     </item>
     
   </channel>
