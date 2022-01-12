@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/Latlander/sw.js",{scope:"/Latlander/"})

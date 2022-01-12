@@ -6,16 +6,6 @@
     <description>Recent content on Latlander</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://lonelymonday.github.io/Latlander/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Book</title>
-      <link>https://lonelymonday.github.io/Latlander/docs/chapters/prologue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lonelymonday.github.io/Latlander/docs/chapters/prologue/</guid>
-      <description>Sorry for the bad integration. I&amp;rsquo;m fixing it!
-Here&amp;rsquo;s the correct link to the current draft.</description>
-    </item>
-    
-    <item>
       <title>Chapter I: The Promise</title>
       <link>https://lonelymonday.github.io/Latlander/docs/chapters/prologue/chapter_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -31,7 +21,7 @@ Here&amp;rsquo;s the correct link to the current draft.</description>
       
       <guid>https://lonelymonday.github.io/Latlander/docs/wiki/others/keidanns/</guid>
       <description>The Keidanns are a traditional family hailing from Courland and to some extent, related to the Curonian Kings.
-Members #  Elder Keidann #   Elder Keidann, also called &amp;ldquo;Keidann The Warrior&amp;rdquo; was an ancient Kuronian warrior who supposedly lived around the 12th Century. According to oral tradition he lived with his wife and children around Aizpute and was part of his King&amp;rsquo;s retinue. He was called into campaign as the pagans went to war with the Crusaders to defend their land.</description>
+Members#Elder Keidann#Elder Keidann, also called &amp;ldquo;Keidann The Warrior&amp;rdquo; was an ancient Kuronian warrior who supposedly lived around the 12th Century. According to oral tradition he lived with his wife and children around Aizpute and was part of his King&amp;rsquo;s retinue. He was called into campaign as the pagans went to war with the Crusaders to defend their land.</description>
     </item>
     
     <item>
@@ -41,7 +31,7 @@ Members #  Elder Keidann #   Elder Keidann, also called &amp;ldquo;Keidann The W
       
       <guid>https://lonelymonday.github.io/Latlander/docs/wiki/characters/primary/markuss/</guid>
       <description>Second-Lieutenant Markuss Keidann is a Latvian commanding officer of the 3rd Courland Battalion (and later, Regiment) as a colleague of First-Lieutenant Wilks and acts as the main &amp;ldquo;protagonist&amp;rdquo; of the story. Born in 1895 in Aizpute and raised in the local baptist church, he was the oldest son of Mr. and Mme. Keidann and brother of Kriss Keidann, whom he had a rocky relationship.
-Book 1 #  Act I</description>
+Book 1#Act I</description>
     </item>
     
     <item>
@@ -107,9 +97,9 @@ After the breakout of war, she volunteers to the Red Cross and soon becomes a sk
       
       <guid>https://lonelymonday.github.io/Latlander/docs/wiki/characters/primary/freiman/</guid>
       <description>Pastor/Father Freiman is a Latvian baptist pastor in Aizpute and the father of Anna and Gustavs until he moves to Riga after 1905. He is later imprisoned alongside other baptist pastors and sent to Siberia until he returns in 1917. After the socialist revolution he flees with his daughter to german-controlled Courland.
-Appearance and Character #  He is blind in his right eye.
+Appearance and Character#He is blind in his right eye.
 [To be added]
-History #  [To be added]</description>
+History#[To be added]</description>
     </item>
     
     <item>
@@ -129,7 +119,7 @@ In 1917, he fights in the defense of Riga and after the battle is lost, he helps
       
       <guid>https://lonelymonday.github.io/Latlander/docs/wiki/characters/secondary/milgrave/</guid>
       <description>Captain Milgrave is a Latvian commanding officer of the 2nd Riga Battalion (and later, Regiment). An old experienced commander, he fought in the Russo-Japanese war before being assigned to the Latvian Land Defense units. He first appears in the story during the defense of Jelgava and later reappears in the Death Island and during the aftermath of the Socialist Revolution. His fate is unknown.
-Appearance and Character #  He is often refered by the soldiers of the 3rd Courland Regiment as an &amp;ldquo;drunker, smoker, absolutely smashed older version of Wilks&amp;rdquo;.</description>
+Appearance and Character#He is often refered by the soldiers of the 3rd Courland Regiment as an &amp;ldquo;drunker, smoker, absolutely smashed older version of Wilks&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -150,8 +140,8 @@ A stubborn man, Danilov sends the Latvians to attack after attack in hopes of br
       <guid>https://lonelymonday.github.io/Latlander/docs/wiki/characters/secondary/bear/</guid>
       <description>The Bear is a Latvian soldier. Born in Latgale, he appears as a minor character during the war, but having a major role during the final phases of the War of Independence.
 He is a fierce catholic.
-Appearance and Character #  [To be added]
-History #  [To be added]</description>
+Appearance and Character#[To be added]
+History#[To be added]</description>
     </item>
     
     <item>
@@ -160,10 +150,10 @@ History #  [To be added]</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lonelymonday.github.io/Latlander/docs/wiki/characters/secondary/ozols/</guid>
-      <description> [To be added]
-Appearance and Character #  [To be added]
-History #  [To be added]
-MacOS MacOS Content #  Linux Linux Content #  Windows Windows Content #   --</description>
+      <description>[To be added]
+Appearance and Character#[To be added]
+History#[To be added]
+MacOSMacOS Content#LinuxLinux Content#WindowsWindows Content#--</description>
     </item>
     
     <item>
@@ -176,13 +166,23 @@ MacOS MacOS Content #  Linux Linux Content #  Windows Windows Content #   --</de
     </item>
     
     <item>
+      <title>Elijah</title>
+      <link>https://lonelymonday.github.io/Latlander/docs/wiki/characters/secondary/elijah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lonelymonday.github.io/Latlander/docs/wiki/characters/secondary/elijah/</guid>
+      <description>Elijah &amp;lsquo;Eli&amp;rsquo; Augstroze (sometimes written as Elija), is a music student at Rigas Conservatory and colleague of Kris. Born in Kuldiga to a low-middle class family of salesman, Elijah grew as a quiet and reserved kid and musically talented with the violin. He eventually had the opportunity to study in Rigas Conservatory, but while he excelled at his studies, he often found himself alone or unloved.
+While in Riga, he was an infrequent member of the Baptist Church where Pastor Anderman preached - altought his faith was strong, so were his doubts on himself and the promise that he was loved.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://lonelymonday.github.io/Latlander/docs/wiki/characters/primary/father/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lonelymonday.github.io/Latlander/docs/wiki/characters/primary/father/</guid>
       <description>Sgt. Abrams &amp;ldquo;Abe&amp;rdquo; Keidann (commonly called Mr. Keidann or simply as Father by his sons) was a Latvian Homesteader and Steward for a local german family in Aizpute. He was married to Lavise Keidann and had two sons: Markuss and Kris Keidann.
-History #  Before: Abrams was born around the early 1860&amp;rsquo;s in Aizpute to the traditional Keidann family, being raised with a solemn sense of duty and unwavering honor.</description>
+History#Before: Abrams was born around the early 1860&amp;rsquo;s in Aizpute to the traditional Keidann family, being raised with a solemn sense of duty and unwavering honor.</description>
     </item>
     
   </channel>
